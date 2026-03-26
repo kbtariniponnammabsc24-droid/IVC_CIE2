@@ -1,0 +1,5 @@
+print("Hello!")
+print("Name: [Your Name]")
+print("Class: [Your Class]")
+print("Section: [Your Section]")
+print("USN: [Your USN]")
